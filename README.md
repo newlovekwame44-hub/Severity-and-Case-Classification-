@@ -30,4 +30,3 @@ Three cases are serious, two are non-serious, and two are unexpected.
 
 I judged expectedness against the scenario's reference information. In real labeling, lactic acidosis with metformin and tendon rupture with levofloxacin both carry boxed warnings, so they would count as expected there.
 
-Should I send all of these
